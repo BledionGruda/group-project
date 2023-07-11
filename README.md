@@ -1,2 +1,2 @@
-# GROUP-PROJECT#
-** Bledion Gruda dhe Albin Shatri **
+# GROUP-PROJECT #
+ Bledion Gruda dhe Albin Shatri 
